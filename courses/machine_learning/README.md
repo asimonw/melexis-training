@@ -20,8 +20,8 @@ Updated labs to use AI Notebooks based on [JupyterLab](https://github.com/jupyte
 1. Click OPEN JUPYTERLAB.
 1. From the Git menu, select Git Interface.
 1. Click the icon to clone a repository.
-1. For the repo URL, enter this branch: 
-`https://github.com/turbomanage/training-data-analyst/`
+1. For the repo URL, enter this: 
+`https://github.com/asimonw/melexis-training/`
 1. You will see the training-data-analyst folder appear. Double-click to enter.
 1. Select the git icon in the left nav and click the refresh icon in the git menu bar.
 1. Select the branch named `origin/extra`. This branch contains the lab notebooks updated to use AI Notebooks instead of Datalab.

@@ -28,7 +28,7 @@ Updated labs to use AI Notebooks based on [JupyterLab](https://github.com/jupyte
 
 ### Open the first notebook
 1. In JupyterLab, click the folder icon in the left nav.
-1. Navigate to training_data_analyst/courses/machine_learning/datasets.
+1. Navigate to melexis-training/courses/machine_learning/datasets.
 1. Click create_datasets.ipynb to open the notebook for Lab 1.
 
 ### Lab index
